@@ -1,0 +1,18 @@
+# MATLAB
+*.asv
+*.mex*
+*.slxc
+*.slx
+*.mdl
+*.mexa64
+*.mexw64
+
+# Simulink autosave & backup
+*.autosave
+*~*
+# Node / OS
+node_modules/
+.DS_Store
+Thumbs.db
+.vscode/
+*.log
